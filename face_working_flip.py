@@ -14,7 +14,7 @@ print(me.get_battery())
 
 me.streamon()
 
-me.takeoff()
+#me.takeoff()
 
 me.send_rc_control(0, 0, 25, 0)
 
